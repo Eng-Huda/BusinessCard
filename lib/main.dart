@@ -76,7 +76,7 @@ class Business_Card extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.only(left:22),
                     child: Text(
-                      "(+967) 772890993",
+                      "(+967) 777777777",
                       style: TextStyle(fontSize: 24,color: Color(0xFFffffff)),
                     ),
                   ),
@@ -106,7 +106,7 @@ class Business_Card extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.only(left:22),
                     child: Text(
-                      "HudaMoohialdin@gmail",
+                      "Example@gmail",
                       style: TextStyle(fontSize: 24,color: Color(0xFFffffff)),
                     ),
                   ),
